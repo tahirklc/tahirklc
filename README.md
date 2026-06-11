@@ -4,16 +4,22 @@
 
 <br>
 
-- 🔭 I’m currently working on **Yoklapp** and multiplayer updates for **Kelime Arena**
+- 🔭 I’m currently working on my biggest project [**Yoklapp**](https://yoklapp.com.tr) and multiplayer updates for **Kelime Arena**
 - 🌱 I’m actively developing with **Flutter, Node.js, Python, and Unity (C#)**
 - 👯 I’m open to collaborating on **hackathons and multi-disciplinary space/tech events**
 - 💬 Ask me about **Space debris management projects or app monetization networks**
 - 📫 How to reach me: **tahirxxx63@gmail.com**
 
-### Connect with me:
+### Connect with me & Portfolio:
 <p align="left">
   <a href="https://linkedin.com/in/tahirklc" target="_blank">
     <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://tahirkilic.com.tr" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Website-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="website" />
+  </a>
+  <a href="https://play.google.com/store/apps/dev?id=6428515630957007158" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="google-play" />
   </a>
 </p>
 
